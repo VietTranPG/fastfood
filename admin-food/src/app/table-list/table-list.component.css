@@ -1,0 +1,9 @@
+.choose-img{
+    border: solid 1px orange;
+    border-radius: 30px;
+    height: 100px;
+    display: flex;
+}
+.choose-img div{
+    margin: auto;
+}
